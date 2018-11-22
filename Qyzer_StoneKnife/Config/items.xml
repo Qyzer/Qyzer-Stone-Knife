@@ -1,7 +1,7 @@
 <configs>
 	<append xpath="/items">
 		<!-- items needed to scrap Xyth junk into -->
-		<item name="meleeStoneKnife">
+		<item name="Stone Knife">
 			<property name="Tags" value="knife,melee,light,weapon,meleeWeapon,perkDeepCuts,perkTheHuntsman"/>
 			<property name="DisplayType" value="melee"/>
 			<property name="HoldType" value="36"/>
@@ -12,7 +12,7 @@
 			<property name="EconomicValue" value="34"/>
 			<property name="CustomIcon" value="meleeBoneShiv"/>
 			<property name="CustomIconTint" value="808080"/>
-			<Property name="TintColor" value="80,80,80"/>
+			<Property name="TintColor" value="00,66,00"/>
 			<property name="SellableToTrader" value="false"/>
 			<property name="SoundDestroy" value="stonedestroy1"/>
 
