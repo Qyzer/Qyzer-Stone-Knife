@@ -1,0 +1,7 @@
+<configs>
+    <append xpath="/recipes">
+        <recipe name="meleeStoneKnife" count="1">
+            <ingredient name="resourceRockSmall" count="3"/>
+        </recipe>
+    </append>
+</configs>
