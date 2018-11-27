@@ -1,6 +1,5 @@
 <configs>
 	<append xpath="/items">
-		<!-- items needed to scrap Xyth junk into -->
 		<item name="Stone Knife">
 			<property name="Tags" value="knife,melee,light,weapon,meleeWeapon,perkDeepCuts,perkTheHuntsman"/>
 			<property name="DisplayType" value="melee"/>
